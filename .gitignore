@@ -68,6 +68,7 @@ local.properties
 # Maven
 ######################
 /log/
+/target/
 */target/**
 ######################
 # Gradle
